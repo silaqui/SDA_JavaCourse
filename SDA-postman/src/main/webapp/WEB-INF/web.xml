@@ -1,0 +1,17 @@
+<web-app>
+
+    <display-name>Archetype Created Web Application</display-name>
+
+    <servlet>
+        <servlet-name>JSONServlet</servlet-name>
+        <servlet-class>pl.sda.servlets.JSONReciver</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>JSONServlet</servlet-name>
+        <url-pattern>/json</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>
+

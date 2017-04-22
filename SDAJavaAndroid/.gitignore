@@ -1,0 +1,14 @@
+.idea/
+/facade/.idea/compiler.xml
+/facade/.idea/libraries/Maven__junit_junit_4_12.xml
+/facade/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+/facade/.idea/libraries/Maven__pl_sda_sort_1_0_SNAPSHOT.xml
+/facade/.idea/misc.xml
+/facade/.idea/modules.xml
+/facade/.idea/workspace.xml
+/facade/facade.iml
+/facade/target/*
+target/
+*.iml
+
+
